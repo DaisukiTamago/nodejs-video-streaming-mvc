@@ -3,6 +3,8 @@
 ### Overview
 This project is a MVC server that uses Node.js Streams behind the scenes to dynamically stream video files that can be consumed by any video player through HTTP routes
 
+Client: https://github.com/DaisukiTamago/react-streaming-client
+
 ### Features
 1. Automatic file's structure generation
 2. Automatic data fetching from The Movie Database API
