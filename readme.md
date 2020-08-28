@@ -10,9 +10,9 @@ This project is a MVC server that uses Node.js Streams behind the scenes to dyna
 
 ### Setup
 
-After clone the project:
-`yarn install`: to install the dependencies
-`yarn start`: get the server running
+After clone the project:  
+`yarn install`: to install the dependencies  
+`yarn start`: get the server running  
 
 Before run `yarn start` for the first time you must fill the `.env` file with your data:  
 
